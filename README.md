@@ -23,6 +23,6 @@
 
     * Pkg.add("BenchmarkTools")
     * Pkg.add("Yao")
-    * Pkg.add("LinearOps")
+    * Pkg.add("LinearMaps")
     * Pkg.add("IJulia")
 * type `jupyter notebook`, and open the notebook "notebooks/juliamatrix.ipynb"

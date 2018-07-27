@@ -1,5 +1,5 @@
 BenchmarkTools
-LinearOps
+LinearMaps
 StaticArrays
 Yao
 IJulia
