@@ -9,6 +9,7 @@
 
 #### Matrices
 * Use `LinearMaps.jl` to view a linear function as a matrix
+* fast `eigen solver` and `expmv`
 * Sparse Matrices
 
     * CSC Sparse Matrix
