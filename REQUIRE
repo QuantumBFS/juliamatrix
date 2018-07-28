@@ -1,5 +1,7 @@
 BenchmarkTools
 LinearMaps
 StaticArrays
+TensorOperations
 Yao
 IJulia
+https://github.com/GiggleLiu/Expokit.jl.git

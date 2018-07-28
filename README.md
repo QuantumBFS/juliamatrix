@@ -22,7 +22,10 @@
 * install required packages, open a julia REPL, type
 
     * Pkg.add("BenchmarkTools")
+    * Pkg.add("TensorOperations")
     * Pkg.add("Yao")
     * Pkg.add("LinearMaps")
     * Pkg.add("IJulia")
+    * Pkg.clone("https://github.com/GiggleLiu/Expokit.jl.git")
+
 * type `jupyter notebook`, and open the notebook "notebooks/juliamatrix.ipynb"
